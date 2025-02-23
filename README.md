@@ -47,7 +47,7 @@ This is a ROS2 task submission given by Accleration Robotics in order to impleme
   
   `ros2 topic echo /right_wheel_rpm`
 
-![Task 1](/task_demo_videos/Part_1.webm)
+![Task 1](/task_demo_videos/Part_1.gif)
 
 ## Part 2: Waypoint Navigation (Python Script)
 
@@ -67,4 +67,4 @@ This is a ROS2 task submission given by Accleration Robotics in order to impleme
     -p waypoint_2_x:=4.0 -p waypoint_2_y:=3.0 \
     -p kp:=0.30 -p ki:=0.0003 -p kd:=0.20``
     
-![Task 2](/task_demo_videos/Part_2.webm)
+![Task 2](/task_demo_videos/Part_2.gif)

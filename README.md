@@ -4,18 +4,18 @@ This is a ROS2 task submission given by Accleration Robotics in order to impleme
 
 ## Given Objectives
 - Develop a ROS 2 C++ node for a differential drive robot that:
-- Processes velocity commands to compute RPM for each wheel.
-- Publishes computed RPMs for motor control.
-- Implements a separate Python script to navigate the robot between two waypoints using odometry and PID control.
-- Works with Gazebo Harmonic or later and ROS 2 Humble or later.
+    - Processes velocity commands to compute RPM for each wheel.
+    - Publishes computed RPMs for motor control.
+    - Implements a separate Python script to navigate the robot between two waypoints using odometry and PID control.
+    - Works with Gazebo Harmonic or later and ROS 2 Humble or later.
 
 ## System Configuration:
 
-* Ubuntu 22.04
+> Ubuntu 22.04
 
-* ROS2 Humble
+> ROS2 Humble
 
-* Gazebo Fortress
+> Gazebo Fortress
 
 ## Part 1: Differential Drive Controller (C++)
 
